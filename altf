@@ -1,2 +1,1 @@
-data
-echo "hi this is veeru"
+print("Hello, World!"
